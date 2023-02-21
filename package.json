@@ -10,6 +10,14 @@
     "start": "vite --port 3000 --open"
   },
   "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "prettier": "^2.8.4",
+    "prettier-plugin-tailwindcss": "^0.2.2",
+    "tailwindcss": "^3.2.6",
     "vite": "^4.1.0"
+  },
+  "dependencies": {
+    "@tailwindcss/line-clamp": "^0.4.2"
   }
 }
